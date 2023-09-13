@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Take-Home-Quiz</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
