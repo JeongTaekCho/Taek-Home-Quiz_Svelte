@@ -57,6 +57,7 @@
 
     #menu > li > a{
        display: flex;
+       width: 100%;
        justify-content: center;
        align-items: center;
        gap: 15px;
