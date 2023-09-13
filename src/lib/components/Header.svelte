@@ -76,6 +76,11 @@
     }
     #menu > li:first-child {
         width: 16.6%;
+        justify-content: flex-start;
+        padding: 0 22px;
+        background: url("/src//lib//images/chevron-down.png") no-repeat;
+        background-position-x: 95%;
+        background-position-y: center;
     }
     #menu > li:last-child {
         width: 12.08%;
@@ -83,11 +88,13 @@
 
 
     #language{
+        width: 100%;
         background: none;
         border: none;
         color: #fff;
         font-size: 20px;
         -webkit-appearance: none;
+        outline: none;
     }
 
     .circle-number{

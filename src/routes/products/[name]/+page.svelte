@@ -79,7 +79,7 @@
         justify-content: center;
         align-items: center;
         cursor: pointer;
-        box-shadow: 0px 0px 3px gray;
+        box-shadow: 0px 2px 4px 2px rgba(230, 230, 230, 0.5);
     }
 
     .back-btn > img {
@@ -94,7 +94,7 @@
 
     .product-title > span.category-name {
         font-size: 36px;
-        font-weight: 600;
+        font-weight: 500;
         color: #000;
     }
     .product-title > span.circle {
