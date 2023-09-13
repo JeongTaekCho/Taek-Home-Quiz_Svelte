@@ -95,6 +95,7 @@
         font-size: 20px;
         -webkit-appearance: none;
         outline: none;
+        cursor: pointer;
     }
 
     .circle-number{
