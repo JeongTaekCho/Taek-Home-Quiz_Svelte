@@ -3,7 +3,6 @@
 
 	import CateItem from "$lib/components/CateItem.svelte";
 	import {categoryOrder} from "$lib/data/categoryData"
-	console.log(categoryOrder)
 </script>
 
 <svelte:head>

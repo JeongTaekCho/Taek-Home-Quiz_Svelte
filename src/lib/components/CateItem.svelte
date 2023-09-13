@@ -8,7 +8,7 @@
 </script>
 
 <a href="/products/{item.name.replaceAll(' ', '')}" class="cate-item">
-    <div class="item-bg" style="background-image: url({"https://picsum.photos/300/201.webp"});"></div>
+    <div class="item-bg" style="background-image: url({item.picture});"></div>
     <p class="item-name">{item.name}</p>
 </a>
 
