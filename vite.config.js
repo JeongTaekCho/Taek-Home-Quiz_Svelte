@@ -1,7 +1,6 @@
-import { sveltekit } from "@sveltejs/kit/vite";
-import { defineConfig } from "vite";
-import PrettierPlugin from "vite-plugin-prettier";
+import { sveltekit } from '@sveltejs/kit/vite';
+import { defineConfig } from 'vite';
 
 export default defineConfig({
-  plugins: [sveltekit(), PrettierPlugin()],
+  plugins: [sveltekit()],
 });
